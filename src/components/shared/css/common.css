@@ -1,0 +1,35 @@
+.next-button-style{
+    width: 100px;
+    float: right;
+}
+
+.progress-style{
+    height: 24px;
+    width: 35rem;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.progress-disabled{
+    background: #dddddd !important;
+}
+
+.card-style{
+    width: 35rem;
+}
+
+.common-background{
+    border: 1px solid blue;
+}
+
+.tab2-active{
+    background: #007bff !important;
+}
+
+.tab3-active{
+    background: #dc3545!important;
+}
+
+.tab4-active{
+    background: #17a2b8!important;
+}
